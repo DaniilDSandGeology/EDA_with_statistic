@@ -1,4 +1,4 @@
-import panas as pd
+import pandas as pd
 
 
 def isna_test(df):
